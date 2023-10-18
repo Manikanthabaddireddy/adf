@@ -1,0 +1,9 @@
+{
+	"name": "workforall",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "fd457cfa-7973-464f-83d9-65c1c2be8b82",
+		"tenantId": "7286d51c-4793-437f-b762-e97fbe2926e9"
+	}
+}
