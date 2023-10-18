@@ -1,0 +1,27 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "workforall"
+		},
+		"adventurestage_accountKey": {
+			"value": ""
+		},
+		"on_premsqlserver_connectionString": {
+			"value": ""
+		},
+		"AzureKeyVaultforssms_properties_typeProperties_baseUrl": {
+			"value": "https://adfkeysadventure.vault.azure.net/"
+		},
+		"adventurestage_properties_typeProperties_url": {
+			"value": "https://adventuredata.dfs.core.windows.net/"
+		},
+		"containerUri": {
+			"value": ""
+		},
+		"containerSasToken": {
+			"value": ""
+		}
+	}
+}
