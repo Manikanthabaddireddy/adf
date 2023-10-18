@@ -1,0 +1,11 @@
+{
+	"name": "AzureKeyVaultforssms",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "AzureKeyVault",
+		"typeProperties": {
+			"baseUrl": "https://adfkeysadventure.vault.azure.net/"
+		}
+	}
+}
